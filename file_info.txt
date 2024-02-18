@@ -1,0 +1,3 @@
+Name: book, Extension: .docx, Is Directory: False, Parent Directory: doc
+Name: pic, Extension: .png, Is Directory: False, Parent Directory: doc
+Name: text, Extension: .txt, Is Directory: False, Parent Directory: doc
